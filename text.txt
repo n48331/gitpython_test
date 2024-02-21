@@ -1,1 +1,2 @@
-well well well
+Hello, this is some content written to the file!
+You can add more lines if you want.
